@@ -7,4 +7,4 @@ Description:
 
 ## Certificate of excellence for the capestone project
 
-![Letter](https://github.com/bjdineshkumar/Smart_Temperature_System/blob/main/Certificate%20of%20Excellence_Dinesh_Kumar.pdf)
+![Certificate](https://github.com/bjdineshkumar/Smart_Temperature_System/blob/main/Certificate%20of%20excellence.png)
